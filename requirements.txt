@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy
+matplotlib
+scikit-learn
+xlrd          # reads the original .xls file
+ucimlrepo     # optional: downloads the dataset automatically
+shap          # needed from Week 2
+jupyter
